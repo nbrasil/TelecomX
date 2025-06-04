@@ -23,40 +23,10 @@
 * `Charges.Total`: total gasto pelo cliente
 
 
+observações:
+analisando o total de clientes, é uma minoria que opta pela evasão, apesar de ser um número significativo - 1869
+Entre homens e mulheres que optam pela evasão, os números são praticamente iguais, homens possuem um percentual menor de 0.4%
+Mais da metade, mais precisamente 74.5%, de quem faz evasão são pessoas -60%
+O Tipo de pagamento com maior evasão é o pagamento eletrônico (electronic check)
+O tipo de contrato com maior evasão é o mensal
 
-
-Principais colunas para analisar:
-customerID 
-Churn - deve ser string
-customer.gender - deve ser string
-customer.SeniorCitizen
-customer.tenure
-phone.PhoneService
-internet.InternetService
-account.Contract
-account.PaymentMethod
-account.Charges.Monthly
-account.Charges.Total
-
-
- 0   customerID                 7267 non-null   object 
- 1   Churn                      7267 non-null   object 
- 2   customer.gender            7267 non-null   object 
- 3   customer.SeniorCitizen     7267 non-null   int64  
- 4   customer.Partner           7267 non-null   object 
- 5   customer.Dependents        7267 non-null   object 
- 6   customer.tenure            7267 non-null   int64  
- 7   phone.PhoneService         7267 non-null   object 
- 8   phone.MultipleLines        7267 non-null   object 
- 9   internet.InternetService   7267 non-null   object 
- 10  internet.OnlineSecurity    7267 non-null   object 
- 11  internet.OnlineBackup      7267 non-null   object 
- 12  internet.DeviceProtection  7267 non-null   object 
- 13  internet.TechSupport       7267 non-null   object 
- 14  internet.StreamingTV       7267 non-null   object 
- 15  internet.StreamingMovies   7267 non-null   object 
- 16  account.Contract           7267 non-null   object 
- 17  account.PaperlessBilling   7267 non-null   object 
- 18  account.PaymentMethod      7267 non-null   object 
- 19  account.Charges.Monthly    7267 non-null   float64
- 20  account.Charges.Total      7267 non-null   object 
