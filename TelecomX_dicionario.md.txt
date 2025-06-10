@@ -23,10 +23,3 @@
 * `Charges.Total`: total gasto pelo cliente
 
 
-observações:
-analisando o total de clientes, é uma minoria que opta pela evasão, apesar de ser um número significativo - 1869
-Entre homens e mulheres que optam pela evasão, os números são praticamente iguais, homens possuem um percentual menor de 0.4%
-Mais da metade, mais precisamente 74.5%, de quem faz evasão são pessoas -60%
-O Tipo de pagamento com maior evasão é o pagamento eletrônico (electronic check)
-O tipo de contrato com maior evasão é o mensal
-
