@@ -1,7 +1,7 @@
 # TelecomX - Análise de Churn em Telecomunicações
 Linguagem: Python 
 
-Bibliotecas: pandas, matplotlib, seaborn, numpy
+Bibliotecas: pandas, matplotlib, seaborn, numpy, plotly(gráficos interativos não aparecem no github, por este motivo no notebook inclui imagens estáticas dos mesmos)
 
 ## 📌 Sobre o Projeto
 O TelecomX é um projeto de análise de dados focado em entender e reduzir a taxa de churn (evasão de clientes) em uma empresa de telecomunicações. Utilizando técnicas de análise exploratória de dados (EDA), identificamos padrões e insights que podem ajudar a empresa a reter mais clientes e melhorar sua estratégia de negócios.
